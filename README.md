@@ -5,6 +5,7 @@ This project involves analyzing store-level sales data using Microsoft Excel.
 The goal was to extract meaningful insights related to sales trends, profitability, and category performance through data cleaning, formulas, and Excel dashboards.
 
 🧰 Tools Used
+
 Microsoft Excel
 Pivot Tables
 Charts & Graphs
@@ -13,6 +14,7 @@ Data Cleaning using formulas
 Dashboard Layout
 
 🔍 Key Highlights
+
 📈 Monthly Sales Trend Analysis
 📦 Category-wise and Product-wise Sales
 🏬 Region/Store Performance Comparison
